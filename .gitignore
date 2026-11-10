@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# Built EXE (use Release assets instead)
+EcoWatt.exe
+
+# Logs and temp files
+*.log
+settings.json
+test_icon.png
+
+# Tools folder (build utilities)
+tools/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+nosetests.xml
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Antigravity / Gemini
+.gemini/
+
+# Windows thumbnail cache
+Thumbs.db
+Desktop.ini
+
+# Env files
+.env
+
